@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    NSLog(@"你好中国!");
+    NSLog(@"你好中国! 你好北京");
 
 }
 
