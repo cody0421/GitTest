@@ -17,7 +17,7 @@
 //处理视图加载
 - (void)viewDidLoad {
     [super viewDidLoad];
-
+//
     NSLog(@"你好中国! 你好北京");
 
 }
