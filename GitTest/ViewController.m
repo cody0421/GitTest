@@ -14,6 +14,7 @@
 
 @implementation ViewController
 
+//处理视图加载
 - (void)viewDidLoad {
     [super viewDidLoad];
 
